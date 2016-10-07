@@ -9,26 +9,26 @@ Address:
 Contact:
   - julien.vitay@informatik.tu-chemnitz.de
 Editor:
-  - Name Surname
+  - Nicolas P. Rougier
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Xavier Hinaut
+  - Pierre Enel
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  Jul,  1, 2016
+  accepted:  Oct, 7, 2016
+  published: Oct, 7, 2016
+  volume:    "**2**"
   issue:     "**1**"
-  date:      Sep 2015
+  date:      Oct 2016
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Vitay-2016/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Vitay-2016/tree/master/code"
   data:      
   notebook:  
 Reproduction:
   - "Laje, R. and Buonomano, D.V. (2013). Robust timing and motor patterns by taming chaos in recurrent neural networks. Nat Neurosci. 16(7) pp 925-33. doi:10.1038/nn.3405."
 Bibliography:
-  your_article_name.bib
+  vitay-2016.bib
 
 ---
 
